@@ -4,7 +4,7 @@ import MovieCard from "./MovieCard";
 
 import "./App.css";
 import SearchIcon from "./search.svg";
-const API_URL = "http://www.omdbapi.com?apikey=8f587d38";
+const API_URL = "https://www.omdbapi.com?apikey=8f587d38";
 // const movie1 = {
 //   Title: "Spiderman",
 //   Year: "1990",
