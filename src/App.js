@@ -25,9 +25,6 @@ const App = () => {
     searchMovies("Spiderman");
   }, []);
 
-  // useEffect(() => {
-  //   console.log(searchTerm);
-  // }, [searchTerm]);
   return (
     <div className="app">
       <h1>MovieLand</h1>
